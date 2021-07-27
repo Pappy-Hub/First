@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>-STUDIO-ACADEMY-CLONE</title>
+    <link rel="stylesheet" href="TechStyleSheet/TechStudio.css">
+
+</head>
+
+<body>
+    <header class="sec_1">
+        <div class="sec_1_1">
+            <nav class="nav">
+
+                <img class="logo1" src="./Images/logo.png" alt=""></li>
+                <li class="tech"><strong> Tech Studio Academy </strong></li> <br>
+                <li class="tech1"> A Strategic Dots Digital Solutions Company</li>
+            </nav>
+        </div>
+    </header>
+
+    <nav>
+        <div class="sec_1_2">
+            <ul>
+
+                <li class="sec_1_3"><span><a href=" Download Package">Download Package</a></li>
+
+
+                <li class="sec_1_3"><span><a href=" Login">Login</a></li>
+
+
+                <li class="sec_1_3"><span><a href=" Register">Register</a></li>
+
+
+            </ul>
+        </div>
+
+    </nav>
+
+
+
+
+    <section class="sec_2">
+        <div class="sec_2_1">
+
+            <h1 class="sec_2_11">JavaScript Full Stack Web <br> Development Immersive</h1>
+            <p class="sec_2_1_1">Explore the fastest, most effective way to instantly grow your skills, transform <br>
+                yourself and get ready to be hired as a highly-paid web developer</p><br>
+            <h3 class="sec_2_1_2">Enrolment Details</h3>
+
+            <div class="sec_2_3">
+                <div class="sec_2_4">
+                    <p>Location</p>
+                    <p>Start Date</p>
+                    <p>Duration</p>
+                </div>
+                <div class="sec_2_5">
+                    <p>Palmgroove, Lagos</p>
+                    <p>Start Date</p>
+                    <p>16 Weeks</p>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="sec_2_6">
+            <div>
+                <div class="sec_2_7">
+                    <p>Register to learn more about the program <br> pricing and curriculum</p>
+                </div>
+                <form action="" method=POST>
+
+                    <div class="sec_2_8">
+                        <input class="form_1" type="text" name="First Name" placeholder="First Name" required>
+                        <input class="form_2" type="text" name="Last Name" placeholder="Last Name" required>
+                    </div>
+
+                    <div>
+                        <input class="form_3" type="text" name="Email" placeholder="Email" required>
+                        <input class="form_4" type="number" name="Phone Number" placeholder="Phone Number" required>
+                        <input class="line" type="submit" value="Get Program Package">
+                    </div>
+
+                </form>
+            </div>
+
+        </div>
+    </section>
+
+
+    <section class="sec_3">
+
+        <div class="sec_3_1">
+
+            <div class="sec_3_2">
+
+                <img class="sec_3_3_3" src="./Images/joseph_avatar.jpg" alt="">
+
+                <p class="sec_3_4">I came into Studio Academy with practically no prior knowledge in software
+                    development. However,
+                    within a few weeks, I was able to grasp the crux of software development and also master the
+                    soft
+                    skills
+                    required for being a software developer.
+
+                    So far so good, the skills acquired have given me a mind-blowing push in my career as a software
+                    developer.
+                    <br>
+                    <strong>JOSEPH DARAMOLA</strong>(FRONTEND DEVELOPER)
+                    <br><span class="red">-FRIDAY-IO</span>
+
+                </p>
+
+            </div>
+
+            <div class="sec_3_3">
+                <img class="sec_3_3_3" src="./Images/peter_avatar.jpg" alt="">
+                <p class="sec_3_4"> Studio Academy has been one of the big push I needed to get in the real world
+                    space. I had an
+                    immense learning that was really different from the self learning I started with. The learning was
+                    fun
+                    and there were some internship job opportunities that were presented to us. I got my first gig
+                    immediately after the program.
+
+                    Thank you Studio for that push I needed.
+                    <br>
+                    <strong class="strong">PETER EDEAWE</strong>(SOFTWARE DEVELOPER)
+                    <br><span class="red">-BREATHEAGENCY.COM</span>
+                </p>
+            </div>
+
+        </div>
+
+        <div class="sec_3_2_1">
+            <img class="sec_3_3_3" src="./Images/rilwan_avatar.jpg" alt="">
+            <p class="sec_3_4">I bless the day the Instagram algorithm pop up Studio Academy to my news feed. I
+                read through
+                their
+                curriculum and other details about the Bootcamp and I told myself this is the opportunity I've been
+                waiting for.
+
+                I wasn't disappointed, the environment was well ventilated and conducive, with competent
+                instructors.
+                Here I am today at OT&T Consulting, fulfilling my dreams thanks to Studio Academy.
+                <br>
+                <strong>RILWAN AJIBOLA</strong>(SOFTWARE DEVELOPER)
+                <br><span class="red"> OTANDTCONSULTING.COM</span>
+            </p>
+
+        </div>
+
+    </section>
+
+
+    <section class="sec_4">
+        <div class="sec_4_1">
+            <div class="sec_4_2">
+                <img class="sec_mock" src="./Images//calendar.png" alt="">
+                <h2 class="sec_4_3">16-Week Bootcamp</h2>
+                <p class="sec_4_4">In 16 weeks, you’ll be a professional javascript full-stack developer, able to build
+                    real-time interactive and dynamic applications. We teach the JavaScript language
+                    because of it's growing popularity every day and it's here to stay
+
+                </p>
+            </div>
+
+            <div class="sec_4_5">
+                <img class="sec_mock" src="./Images//board.png" alt="">
+                <h2 class="sec_4_6">Develop New Skills</h2>
+                <p class="sec_4_7">You'll get your hands dirty by building real life websites,APIs, and data-driven apps
+                    to gain confidence and sharpen yours skills. You'll also collaborate with classmates
+                    on a range of projects to add to your portfolio.
+
+                </p>
+            </div>
+
+            <div class="sec_4_8">
+                <img class="sec_mock" src="./Images//suitcase.png" alt="">
+                <h2 class="sec_4_9">Be An Expert</h2>
+                <p class="sec_4_0">You graduate with a valued portfolio required to launch your career. All our
+                    students receive career guidance and mentorship with the support of our career
+                    counselors through every step of their job search
+
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <section class="sec_5">
+        <h1 class="sec_5_1">Become a well-rounded Web Developer</h1>
+        <hr>
+        <div class="sec_5_2">
+            <div class="sec_5_3">
+
+                <p class="sec_5_4">We teach the important skills required to jumpstart your career as a web developer.
+                    With
+                    16 intense
+                    weeks of on-campus training, you learn to think and build like software developers. You move from
+                    understanding programming fundamentals to launching full-stack web apps. You do all these while
+                    learning to solve everyday problems with constructive, well-written programs. <br> <br>
+
+                    You'll be taught to build smart, data-driven web applications using JavaScript and it's robust React
+                    framwork - Next.js. Work with the famous NoSQL database MongoDB to integrate data into your project;
+                    connect with other third-party applications using API calls. <br> <br>
+
+                    And finally, you'll learn the fundamentals of working as a team; collaborate with other group
+                    members of the class to build, change, maintain, and secure an application. Track your team
+                    development process using Version Control Systems. <br> <br>
+
+                    Interested in viewing more details on the program?
+                </p>
+                <div>
+                    <input class="package2" type="submit" value="Get Program Package">
+                </div>
+
+            </div>
+            <div>
+                <img class="group" src="Images/group.jpg" alt="">
+            </div>
+        </div>
+
+    </section>
+
+    <section>
+        <div class="sec_6">
+            <div class="sec_6_1">
+                <h2 class="sec_6_1_1"> <strong style="text-align: center;">Student's Experience</strong></h2>
+                <p class="sec_6_1_1">Whether you want to pursue a career as a Web Developer, a Freelancer, or an
+                    Entrepreneur, this program prepares you adequately for that. This is an immersive,
+                    collaborative and intensive program, prepared in a way to help you apply what you
+                    learn in real-time through project-based work.
+                </p>
+            </div>
+
+            <img class="students1" src="Images/students.jpg" alt="">
+            <div class="sec_6_2">
+
+                <div>
+                    <p><b>Fundamentals </b></p>
+                    The first weeks of this bootcamp is to help you appreciate the fundamentals of web development,
+                    understanding structure, design and getting comfortable coding in HTML and CSS. <br><br>
+
+                    ou'll also be introduced to the concepts of Responsive Design - targeting different screen sizes and
+                    working with frameworks such as Bootstrap <br><br>
+
+                    <p><b> Frontend Programming</b></p>
+                    After mastering the fundamentals, the focus shifts towards frontend programming. You'll learn to add
+                    motion and interactivity to your project with JavaScript & jQuery. <br><br>
+
+                    <p><b>The React Library</b></p>
+                    You'll learn to buid dynamic Single Page Applications using the famous React Library. Render basic
+                    React
+                    components using JSX and the virtual Document Object Model (DOM). <br><br>
+
+                    <p><b>Version Control</b></p>
+                    You'll learn to use the Git version control system, collaborate with other team members and push
+                    your
+                    projects to GitHub using Git <br><br>
+
+                    <p> Register To Get The Complete Course Package</p>
+
+                    <div>
+                        <input class="package3" type="submit" value="Get Program Package">
+                    </div>
+
+                </div>
+
+                <div>
+                    <p><b>Front and Backend Rendering with Next.JS</b></p>
+                    You'll understand the client/server roles in handling HTTP requests and thereafter move to advanced
+                    concepts used to populate dynamic data to projects. <br> <br>
+
+                    You'll learn to use the amazing server-side rendering of NextJS to create database-driven web
+                    applications. <br> <br>
+
+                    You'll learn to use components like user authentication, contact forms, content administration, file
+                    uploads and a lot more with NextJS to create real-life web applications. <br>
+
+                    <p><b>Databases</b></p>
+                    Modern web applications need querying real-time data for interactivity. You'll spend considerable
+                    time learning Next.JS interaction with NoSQL. <br><br>
+
+                    You'll be exposed to querying the database to perform the CRUD functions - Create, Read, Update and
+                    Delete resources. <br>
+
+                    <p><b>Product Deployment</b></p>
+                    You'll be taught how to deploy your production ready project to a public web server to be accessed
+                    by everyone in the online community.
+
+                </div>
+            </div>
+    </section>
+
+
+    <section class="sec_7">
+
+        <div>
+            <h1 class="sec_7_1">A State-Of-The-Art Facility</h1>
+            <hr><br>
+            <div>
+                <img class="studio" src="Images/studio.png" alt="">
+            </div>
+            <div class="sec7_2">
+
+                <h2 class="sec_7_3">A world-class learning facility</h2>
+                <p class="sec_7_3">Our learning studio is designed to inspire focused learning, creativity and
+                    collaboration. It is equiped with state-of-the-art learning equipments with no more than 10 students
+                    per class. <br> <br>
+
+                    Learn in an environment that puts you in direct contact with professional web developers and
+                    software engineer. <br> <br>
+
+                    You'll be provided with constant power and internet supply to make you focus on the job at hand</p>
+
+                <h1 class="sec_7_3">Learn At A World Class Facility</h1>
+                <a class="sec_7_3" href=" Register for the program"> Register for the program</a> to learn at the top
+                learning facility in Lagos<p></p>
+
+            </div>
+        </div>
+
+    </section>
+
+
+    <section class="sec_8">
+        <div class="sec_8_1">
+            <div>
+                <img class="students2" src="Images/students_pic.jpg" alt="">
+            </div>
+            <div class="sec_8_2">
+                <h1 class="sec_8_3">Why choose Tech Studio Academy?</h1>
+                <hr>
+                <p>Tech Studio Academy is a top-rated tech academy in Lagos. In the last 3 years, we've trained hundreds
+                    of students - both online and physical - and helped them to navigate and forge their paths in the
+                    tech industry. <br> <br>
+
+                    With our career guidance and thorough assistance, some of our students are working with top
+                    organizations in the country and beyond. If you're looking to advance your career in the tech
+                    industry, we'll help fulfill your dream. <br> <br>
+
+                    Though there's not enough reasons why we're the best tech training school around, but here are a
+                    couple:</p>
+
+                <ul class="sec_8_4">
+                    <li>We provide you with <b>the best learning facility you can lay your eyes on. </b> All our classes
+                        are en-suite and equipped with the latest technologies for learning.</li><br>
+                    <li> <b>Our tutors are highly trained professionals </b> that are choosen based on industry
+                        experience and teaching ability</li><br>
+                    <li>We offer you the best support - either while you're learning or after you've graduated. <b> We
+                            provide career support to get you hired in no time</b></li>
+                </ul>
+
+            </div>
+        </div>
+
+    </section>
+
+    <section class="sec_9">
+        <div class="sec_9_1">
+            <div class="sec_9_2">
+                <h2> <b>Career Support</b></h2>
+                <hr>
+                <p>As a student of this program, you'll be provided with access to career readiness tools,<br> resources
+                    and trainings, connections to employers, and opportunities to sharpen your <br> skills.
+                </p>
+            </div>
+            <div class="sec_9_3">
+                <div>
+                    <img class="smile" src="Images/smile.jpg" alt="">
+                </div>
+
+                <div class="sec_9_4">
+                    <h3>Get excellent career guidance from industries' best</h3>
+
+                    Our support team provides students with guidance and tips on building a top-notch portfolio that
+                    woos
+                    employers. <br><br>
+
+                    Tech Studio Academy is always reaching out to employers picking resumés and arranging interviews for
+                    our
+                    students. You gain access to networking opportunities and foster connections within the industry.
+                    <br><br>
+
+                    Through our partnerships, you'll meet and have access to Hiring Managers across different companies.
+                    <br><br>
+
+                    Register To Get The Complete Course Package
+
+                    <div>
+                        <input class="getpackage" type="submit" value="Get Program Package">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="sec_10">
+        <div class="sec_10_11">
+            <div class="sec_10_1">
+                <div class="sec_10_2">
+                    <div>
+                        <h1 class="sec_10_3">Interested in what you'll learn <br>
+                            during the course of this program</h1>
+                    </div>
+                    <div>
+                        <input class="package5" type="submit" value="Get Program Package">
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+
+    <section class="sec_11">
+
+        <div class="sec_11_1">
+
+            <div class="sec_11_2">
+                <h1 class="sec_11_2_1">Frequently Asked Questions</h1>
+                <hr>
+                <p class="sec_11_2_2">We love to hear questions from our prospective students, almost as much as we love
+                    providing answers
+                    to them. Here are a few questions along with our responses:</p>
+            </div>
+
+            <div class="sec_11_3">
+
+                <div>
+                    <p><b>Why Is This Course Relevant Today? </b></p>
+                    There's never been a better time to start a career as a web developer because there is a consistent
+                    demand for developers who both write high-quality code and experienced problem solvers who can
+                    design
+                    creative solutions. <br><br>
+
+                    You'll also be introduced to the concepts of Responsive Design - targeting different screen sizes
+                    and
+                    working with frameworks such as Bootstrap <br><br>
+
+                    <p><b> What Practical Skill Sets Can I Expect To Have Upon Completion Of The Course?</b></p>
+                    By the end of the course, you will have gained practice in the most used web-based programming
+                    language – JavaScript. You’ll have built several full-stack applications of varying complexity, and
+                    have experience working with a team in a development environment. <br><br>
+
+
+                    You’ll gain confidence in tackling new technologies in an ever-changing field. You’ll have gained
+                    foundational skill in many disciplines that touch web development – managing complex data sets,
+                    securing your applications with encrypted passwords, and testing and deploying your applications to
+                    prepare them to scale. <br><br>
+
+
+                    <p><b>Should I Come Equipped With Anything?</b></p>
+                    Yes, a laptop is required (either Mac or PC) with a minimum of 4GB RAM with a storage capacity of at
+                    least 350GB. The course will walk you through installing the necessary free software. <br><br>
+
+                    At least, you’ll require basic secondary school mathematics, but no previous programming language
+                    experience is required.<br><br>
+
+                    <p> Register To Get The Complete Course Package</p>
+
+                    <div>
+                        <input class="package6" type="submit" value="Get Program Package">
+                    </div>
+
+                </div>
+
+                <div class="sec_11_4">
+                    <p><b>What Can I Expect To Accomplish By The End Of This Program?</b></p>
+                    You'll understand the client/server roles in handling HTTP requests and thereafter move to advanced
+                    concepts used to populate dynamic data to projects. <br> <br>
+
+                    By the end of this course, you’d have: <br> <br>
+
+                    <ol>
+                        <li>Completed several individual and group projects</li><br>
+                        <li>Learned about web development from experienced web developers</li><br>
+                        <li>Networked with some of the best developers, companies, and entrepreneurs in Lagos</li><br>
+                        <li>Prepared yourself with the foundational knowledge you need to begin a career that
+                            embraces continuous learning</li>
+                    </ol>
+
+                    <p><b>What Does Success In This Program Look Like?</b></p>
+
+                    To get the most out of this course, you have to be willing to fully immerse yourself (get it?) in
+                    the classroom environment. This means actively engaging with your instructors, classmates, and
+                    career coach, as well as taking every opportunity to apply your new skills toward real-life
+                    projects. <br><br>
+
+                    We’ll help guide you through the entire process, but in order to succeed you’ll need to completely
+                    commit to your work and continuously push yourself. <br><br>
+
+                </div>
+            </div>
+
+
+        </div>
+    </section>
+
+
+    <section class="sec_12">
+        <div class="sec_12_1">
+            <div class="sec_12_2 font">
+                <h3><b>Get started with</b></h3>
+                <p class="font1_1">JavaScript Full Stack Web <br> Development Immersive</p>
+                <h3 class="font2">DURATION</h3>
+                <p>It takes 16 weeks for weekday and 16 weeks for weekend classes <br> respectively to successfully
+                    complete this program.</p>
+                <h3 class="font2">LEARN</h3>
+                <p>You'll learn the fundamentals of web development - structure <br> and design using HTML and CSS, and
+                    also the concept of Responsive Design</p>
+                <p>You'll be introduced to vanilla JavaScript and it's use to add interactivity <br> to your project.
+                    You'll use React to create SPAs and do DOM <br> manipulations.</p>
+                <p>You'll learn NextJS as a framework and use it to perform client and <br> server-side rendering.
+                    You'll also learn to use REST along with NextJS <br> to create a database-driven web application.
+                </p>
+                <h3 class="font2">BENEFITS</h3>
+                <ol>
+                    <li>Build Real-World projects</li>
+                    <li>Access program materials anytime, anywhere</li>
+                    <li>Technical mentor support</li>
+                </ol>
+            </div>
+            <div class="sec_12_3">
+                <p class="font1">Weekday Classes</p>
+                <ol>
+                    <li>Starts 02 / 08 / 2021</li>
+                    <li>Duration: 16 Weeks</li>
+                    <li>Mondays - Thursdays</li>
+                    <li>10am - 5pm</li>
+                    <h1>?300,000</h1>
+                </ol>
+                <p class="font1">Weekend Classes</p>
+                <ol>
+                    <li>Starts 02 / 08 / 2021</li>
+                    <li>Duration: 16 Weeks</li>
+                    <li>Mondays - Thursdays</li>
+                    <li>1:30pm - 5pm (Sundays)</li>
+                    <h1>?200,000</h1>
+                </ol>
+                <p class="font1">Virtual Classes</p>
+                <ol>
+                    <li>Starts 02 / 08 / 2021</li>
+                    <li>Duration: 16 Weeks</li>
+                    <li>Same One-On-One Mentorship</li>
+                    <li>Like Physical Classes)</li>
+                    <h1>?150,000</h1>
+                </ol>
+                <div>
+                    <input class="package7" type="submit" value="Start Your Registration">
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    <footer>
+        <div class="sec_14">
+
+            <div class="sec_14_1">
+                <p> <span><img class="logo2" src="images/logo (1).png" alt=""></span> Tech Studio Academy</p>
+                <address class="add">
+                    3, Ogunlesi Street, Off Awoyokun,
+                    Onipanu, Palmgroove,<br>
+                    Lagos
+                </address>
+            </div>
+
+            <div class="sec_14_3">
+                <p>SIGN UP FOR NEWSLETTER</p>
+            </div>
+            <div>
+                <input class="sec_14_4" type="email" name="" id="email" placeholder="Enter Your Email Address">
+                <input class="sec_14_5" type="Submit" value="Submit">
+            </div>
+
+
+            <div class="media">
+                <p>Social Media</p>
+            </div>
+
+           
+            <div>
+                <a href="https://api.whatsapp.com/send/?phone=%20234%20811%20380%200161&text=Hello%20Tech%20Studio%20Academy,%20I%E2%80%99ll%20like%20to%20make%20an%20enquiry."><img class="whatsapp" src="Images/whatsapp.png" alt="whatsapp link"></a> 
+            </div>
+
+
+        </div>
+    </footer>
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
